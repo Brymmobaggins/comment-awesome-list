@@ -8,4 +8,8 @@
   
 ## link
 
-[Live Demo](https://brymmobaggins.github.io/comment-awesome-list/)
+[Live](https://brymmobaggins.github.io/comment-awesome-list/)
+
+## Screenshot
+
+![project img](./images/commetAwesomelist_Screenshot.png)
